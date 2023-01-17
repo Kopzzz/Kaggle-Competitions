@@ -1,3 +1,3 @@
 # Kaggle-Competitions
 
-For practice Machine Learning skills.
+For practice Data Scientists skills.
